@@ -24,3 +24,9 @@ cd mon-app
 npm start
 ```
 Clean the react code in order to begin
+
+## set Typescript
+Install typescript
+https://www.typescriptlang.org/download
+https://create-react-app.dev/docs/adding-typescript/#getting-started-with-typescript-and-react
+https://www.premieroctet.com/blog/migration-typescript
