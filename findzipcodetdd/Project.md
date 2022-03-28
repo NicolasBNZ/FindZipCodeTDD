@@ -30,3 +30,12 @@ Install typescript
 https://www.typescriptlang.org/download
 https://create-react-app.dev/docs/adding-typescript/#getting-started-with-typescript-and-react
 https://www.premieroctet.com/blog/migration-typescript
+
+
+## create a "develop" branch to push work from features branches
+
+## First feature would be the call to the api
+In a "services" file, I create an api-zipcode-provider. I think it's the first step because, if the tests runs when the feature is done. I could be sure that the api works. And I can go on with the zip code submit. (next feature)
+But first, i create a new branch "api-zipcode-provider"
+
+
