@@ -38,4 +38,5 @@ https://www.premieroctet.com/blog/migration-typescript
 In a "services" file, I create an api-zipcode-provider. I think it's the first step because, if the tests runs when the feature is done. I could be sure that the api works. And I can go on with the zip code submit. (next feature)
 But first, i create a new branch "api-zipcode-provider"
 
-
+## Wrong way
+I have to find another way to begin, more simple.
