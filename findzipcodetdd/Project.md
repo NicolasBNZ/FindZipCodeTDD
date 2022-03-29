@@ -6,6 +6,12 @@ It means, I will begin with unit tests. Tests I think that are mandatory for the
 
 In this markdown file, I will write my journey. 
 
+## Logic
+I create a form where the user will be able to submit a zipcode.
+Then, thanks to the gouverment api, we will get the city object by its zipcode.
+We map the response to display the city name
+
+
 ## Github repository
 I create a repôsitory on github (I would prefer gitlab, but my old findazipcode app is on this github)
 
@@ -37,5 +43,9 @@ https://www.premieroctet.com/blog/migration-typescript
 ## First feature would be the call to the api
 In a "services" file, I create an api-zipcode-provider. I think it's the first step because, if the tests runs when the feature is done. I could be sure that the api works. And I can go on with the zip code submit. (next feature)
 But first, i create a new branch "api-zipcode-provider"
+
+
+## Input a zip code
+The user enter a zipcode in a form, he will be able to submit it later
 
 
